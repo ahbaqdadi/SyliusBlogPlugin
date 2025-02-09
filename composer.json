@@ -48,7 +48,7 @@
         "vimeo/psalm": "5.24.0"
     },
     "conflict": {
-        "symfony/framework-bundle": "6.2.8"
+        "symfony/framework-bundle": "6.2.8 || ^7.1"
     },
     "config": {
         "sort-packages": true,
